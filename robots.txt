@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://loyizovicuo.pages.dev/sitemap.xml
